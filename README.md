@@ -1,6 +1,9 @@
 # JSPA - JavaScript Page Application Router
 
-JSPA (JavaScript Page Application Router) adalah sebuah script JavaScript yang digunakan untuk mengatur navigasi halaman dalam aplikasi berbasis JavaScript menggunakan berbagai mode router seperti hash, slash, dan search.
+JSPA (jQuery Page Application Router) adalah sebuah script JavaScript yang digunakan untuk mengatur navigasi halaman dalam aplikasi berbasis JavaScript menggunakan berbagai mode router seperti hash, slash, dan search.
+
+## Note 
+plugin ini perlu beberapa tambahan plugin JS antara lain dengan jQuery (https://jquery.com/)
 
 ## Fitur Utama
 
